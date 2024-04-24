@@ -1,2 +1,2 @@
-# Curso-dise-o-web
+# Curso HTML
 Tecno3f
